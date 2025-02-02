@@ -1,0 +1,29 @@
+{
+	"appName": "Amori",
+	"relationShipHealth": {
+		"results": "Your Results",
+		"amount": "45",
+		"percentage": "%",
+		"relationship": "Your relationship \nhealth status is at 45%",
+		"score": "Your love game’s scoring a 52% - not \nexactly Hall of Fame material. While there \nare moments of open communication, \naffection, and appreciation, challenges \nand occasional tension exist.",
+		"share": "Share"
+	},
+	"chatSnippet": {
+		"top": "One shimmering highlight beams forth, \nilluminating the depth of your caring and \nconsiderate nature. Your bond seems to \npossess a superhero-like ability to \nrespect each other's personal space \nwith a level of finesse that's truly \nremarkable. Here’s a sweet moment:",
+		"you": "You: ",
+		"hey": "hey, just wanted to give you a ",
+		"headsUp": "heads up – work's gonna keep me pretty \nbusy for a bit. Might be a bit MIA on texts",
+		"george": "George: ",
+		"no": "no worries at all. take all the",
+		"time": "time you need",
+		"thanks": "thanks - i’ll let you know when i’m",
+		"more": "more free",
+		"of": "of course, np. text me",
+		"when": "whenever you can.",
+		"nuture": "Nurture and sustain this unwavering"
+	},
+	"meter": {
+		"smooth": "Smooth Operator",
+		"with": "With moves this smooth, you’re in \na league of your own"
+	}
+}
