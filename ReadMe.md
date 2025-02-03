@@ -90,14 +90,12 @@ During development, the API responses did not contain all the necessary data req
 
 Here are some screenshots demonstrating the app's functionality:
 
-1. **Home Screen:**
-   ![Home Screen](./path-to-screenshot1.jpeg)
+![Simulator Screenshot - iPhone 16 Pro - 2025-02-03 at 01 03 14](https://github.com/user-attachments/assets/11322fa7-b0b6-47e5-9c7a-b4a30141b7cf)
+![Simulator Screenshot - iPhone 16 Pro - 2025-02-03 at 01 03 16](https://github.com/user-attachments/assets/91a4da0a-4ad9-411b-8166-1412547260aa)
+![Simulator Screenshot - iPhone 16 Pro - 2025-02-03 at 01 03 17](https://github.com/user-attachments/assets/54c67150-c04f-4f2a-b049-6451dab20f3e)
+![Simulator Screenshot - iPhone 16 Pro - 2025-02-03 at 01 03 19](https://github.com/user-attachments/assets/519c3787-2954-4d8a-84f2-02c5ce5960a4)
+![Simulator Screenshot - iPhone 16 Pro - 2025-02-03 at 01 03 21](https://github.com/user-attachments/assets/49abbf63-ce3d-4bad-b331-2d13b8ff657b)
 
-2. **Profile Screen:**
-   ![Profile Screen](./path-to-screenshot2.jpeg)
-
-3. **Settings Screen:**
-   ![Settings Screen](./path-to-screenshot3.jpeg)
 
 (Screenshots are placeholders; replace `./path-to-screenshotX.jpeg` with the actual paths.)
 
