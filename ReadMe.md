@@ -86,6 +86,21 @@ During development, the API responses did not contain all the necessary data req
 - Used `@tanstack/react-query` to cache data and retry failed requests, ensuring a better user experience.
 - Collaborated with the backend team to enhance API responses with the required data.
 
+## Screenshots
+
+Here are some screenshots demonstrating the app's functionality:
+
+1. **Home Screen:**
+   ![Home Screen](./path-to-screenshot1.jpeg)
+
+2. **Profile Screen:**
+   ![Profile Screen](./path-to-screenshot2.jpeg)
+
+3. **Settings Screen:**
+   ![Settings Screen](./path-to-screenshot3.jpeg)
+
+(Screenshots are placeholders; replace `./path-to-screenshotX.jpeg` with the actual paths.)
+
 ## License
 This project is licensed under the **0BSD** license.
 
